@@ -1,1 +1,0 @@
-# wmsfo-donation-receipt

@@ -1,0 +1,57 @@
+.Message {
+    border-radius: 5px;
+    width: 80%;
+    max-width: 500px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    color: #FFFFFF;
+    background-color: #242526;
+    border: 1px solid #000000;
+    text-align: center;
+    font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+}
+
+.Message h1 {
+    font-size: 35px;
+}
+
+.Message h2{
+    font-size: 25px;
+}
+
+.AmountWrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#amt-dollar-sign{
+    font-size: 50px;
+    color: #087700;
+    margin: 0px;
+}
+
+#message-amt {
+    font-size: 50px;
+    margin: 0px;
+}
+
+#message-body {
+    color: #FFFFFF;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+}
+
+#message-footer {
+    color: #FFFFFF;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+}
+
+.Message a {
+    color: #ffffff;
+}
